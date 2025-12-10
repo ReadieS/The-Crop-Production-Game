@@ -1,7 +1,5 @@
 ****************************************************************
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
-
-You are free to use, modify, and share this work for non-commercial and educational purposes, provided that appropriate credit is given. Commercial use, including selling this work or derivatives, is prohibited.
+This work is licensed under a Creative Commons License, please see the license section of this github repository for details on the license.
 ****************************************************************
 
 # The Crop Production Game
