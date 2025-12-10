@@ -31,7 +31,10 @@ You will need to print:-
 - 50 player tokens for each team/player
   - The files are included for 3d printing these but realisticaly any tokens could be used for this aspect.
 
+Card backings have been provided, one style should be used on the back of the "Play Cards" and the other on the back of the "Crop Cards" for easy differentiation. Simply print the cards on one side of the card, place back in the printer carful of orientation and print the backing on the other side before laminating.
+
 All the cards are designed to be printed on card, laminated and then cut out. each card has a cutting template around them including rounding of the corners.
+
 
 ## How To Play
 #### Number of Players/Teams: 3-6
