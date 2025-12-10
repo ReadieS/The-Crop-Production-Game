@@ -30,6 +30,7 @@ You will need to print:-
   - 3 cards of each crop per player / team
 - 50 player tokens for each team/player
   - The files are included for 3d printing these but realisticaly any tokens could be used for this aspect.
+  - If you do print the counters there are two files included the "Counter Blank" and "Counter Pound Sign" they are designed to be imported as a single object into the slicer and allow multi-color printing of the two parts. Pouns sign sits ontop of the counter blank.
 
 Card backings have been provided, one style should be used on the back of the "Play Cards" and the other on the back of the "Crop Cards" for easy differentiation. Simply print the cards on one side of the card, place back in the printer carful of orientation and print the backing on the other side before laminating.
 
