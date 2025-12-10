@@ -8,11 +8,11 @@ You are free to use, modify, and share this work for non-commercial and educatio
 
 ## Overview of the games targets
 This game is aimed at KS2 / KS3 Geography Students
-**KS2:**
+### KS2:
 - Fieldwork
 - Crop Rotations and the farming year
 - Soils
-**KS3:**
+### KS3:
 - Crop Rotations and the farming year
 - Fieldwork
 - Human Geography
@@ -20,10 +20,10 @@ This game is aimed at KS2 / KS3 Geography Students
 - Physical Geography
   - Soils
   - Weather and Climate
-**Other**
+### Other
 The Game also covers very small amounts of KS2 Science (Pollination and plant growth) and KS3 Biology (Ecosystem). The Game could easily be adapted to different scenarios by adding some targeted playing cards.
 
-### Resources
+## Resources
 You will need to print:-
 - 1 pack of "play cards"
 - Enough crop cards for the number of teams/players
@@ -33,8 +33,8 @@ You will need to print:-
 
 All the cards are designed to be printed on card, laminated and then cut out. each card has a cutting template around them including rounding of the corners.
 
-#### How To Play
-Number of Players/Teams: 3-6
+## How To Play
+#### Number of Players/Teams: 3-6
 Each player or team receives one playing pack;
 Each pack contains;
 •	50 playing tokens
@@ -64,5 +64,5 @@ Once all the play cards are flipped a final tally of total tokens scored by each
 
 The cards can be photographed if organisers want to discuss them further in class.
 
-##### Feedback and Adjustments
+## Feedback and Adjustments
 I would love to hear your feedback on the project. If you come accross anything you feel should be adjusted or just enjoy using the game please do let me know. I will also be happy to make adjustments if required subject to my time availability.
